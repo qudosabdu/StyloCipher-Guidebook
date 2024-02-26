@@ -5,11 +5,6 @@
 Explanation and usage instructions for Component 1.
 
 ```css
-.component-1 {
-  /* CSS code */
-
-}
-
 # Styling Components
 
 ## Button Hover Effect
