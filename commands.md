@@ -18,6 +18,26 @@
 - **Display a file or command output page by page:** `less`
 - **Search for a pattern in a file:** `grep`
 
+# Create an alias for process find (pf)
+alias pf="ps -e | grep $1"
+
+# View the contents of a file
+cat myfile.txt
+
+# List files and directories
+ls
+# Print the current directory
+pwd
+# Change directory to "documents"
+cd documents
+
+# Create a new directory called "myfolder"
+mkdir myfolder
+
+# Move a file to a different location
+mv myfile.txt /path/to/destination/
+
+
 ## Shell Commands
 
 ### Environment
