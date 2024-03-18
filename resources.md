@@ -12,5 +12,6 @@ Here are some websites that can be helpful for developers:
 - [DevUI](https://www.devui.io/components) - UI components library.
 - [Embla Carousel](https://davidcetinkaya.github.io/embla-carousel/) - A carousel library.
 - [Headless UI](https://headlessui.com/) - UI components for building accessible UIs.
+- [Headless UI](https://tailblocks.cc/) - UI Tailwindcss.
 
 Feel free to explore these resources to enhance your development projects!
